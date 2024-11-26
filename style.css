@@ -83,7 +83,7 @@ h1{
     margin-bottom: 1rem;
 }
 
-h2:hover{
+h1:hover{
     color: var(--Cyan);
 }
 
